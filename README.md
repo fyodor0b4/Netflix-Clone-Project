@@ -2,8 +2,8 @@
 Developed clone of Netflix website with HTML and CSS
 
 # Technologies used in the project
--HTML
--CSS
+- HTML
+- CSS
 
 
 # Screenshot
